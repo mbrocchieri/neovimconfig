@@ -19,7 +19,7 @@ return {
 	},
 	{
 		"mini.indentscope",
-		enabled = true,
+		enabled = false,
 	},
 	{
 		"mini.bracketed",
